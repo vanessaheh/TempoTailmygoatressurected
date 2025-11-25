@@ -1,6 +1,7 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour {
+public class NewEmptyCSharpScript
+{
     public float beatTempo;
     public bool hasStarted;
 
@@ -26,3 +27,4 @@ public class NewMonoBehaviourScript : MonoBehaviour {
         }
     }
 }
+

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class NewEmptyCSharpScript
 {
     private SpriteRenderer theSR;
     public Sprite defaultImage;
