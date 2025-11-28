@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NewEmptyCSharpScript
+public class ButtonController : MonoBehaviour
 {
     private SpriteRenderer theSR;
     public Sprite defaultImage;

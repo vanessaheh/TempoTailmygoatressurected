@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NewEmptyCSharpScript
+public class BeatScroller : MonoBehaviour
 {
     public float beatTempo;
     public bool hasStarted;
@@ -27,4 +27,3 @@ public class NewEmptyCSharpScript
         }
     }
 }
-
